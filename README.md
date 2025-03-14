@@ -12,7 +12,7 @@ sudo apt upgrade -y
 2. Clone the repository and navigate to it.
 
 ```shell
-git clone 
+git clone https://github.com/Mario1603b/Bspwn-Profesional-Eviroment.git
 cd auto-bspwm
 ```
 
